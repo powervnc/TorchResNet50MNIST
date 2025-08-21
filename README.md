@@ -36,6 +36,6 @@ Residual connections are retained for efficient training.
 - Jupyter Notebook: 
 [View Notebook on GitHub](TorchResNet50MNIST.ipynb)  
 - Run the notebook on Google Colab: 
-[Open in Colab](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/TorchResNet50MNIST.ipynb)
+[Open in Colab](https://colab.research.google.com/github/powervnc/TorchResNet50MNIST/blob/main/TorchResNet50MNIST.ipynb)
 
 
