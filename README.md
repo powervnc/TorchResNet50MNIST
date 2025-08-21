@@ -29,7 +29,13 @@ Residual connections are retained for efficient training.
 
 - Achieved **up to 96% accuracy** (may vary based on subset and random initialization)  
 
-## Documentation
+## Documentation & Notebook
 
-Detailed documentation is available as a PDF:  
-[ResNet50_MNIST Documentation](ResNet-50%20for%20MNIST%20Model%20Overview%20and%20Training%20Summary.pdf))
+- Detailed documentation is available as a PDF:  
+[ResNet50_MNIST Documentation](ResNet-50%20for%20MNIST%20Model%20Overview%20and%20Training%20Summary.pdf)
+- Jupyter Notebook: 
+[View Notebook on GitHub](TorchResNet50MNIST.ipynb)  
+- Run the notebook on Google Colab: 
+[Open in Colab](https://colab.research.google.com/github/yourusername/your-repo-name/blob/main/TorchResNet50MNIST.ipynb)
+
+
