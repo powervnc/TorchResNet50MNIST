@@ -27,7 +27,15 @@ Residual connections are retained for efficient training.
 
 ## Results
 
-- Achieved **up to 96% accuracy** (may vary based on subset and random initialization)  
+- Achieved **up to 96% accuracy** (may vary based on subset and random initialization)
+- <img width="641" height="556" alt="image" src="https://github.com/user-attachments/assets/dbe4789e-be14-4690-b076-e4244f92893d" />
+- <img width="846" height="683" alt="image" src="https://github.com/user-attachments/assets/2ee313d9-847e-46ea-aca8-5b6e1e985731" />
+- <img width="846" height="683" alt="image" src="https://github.com/user-attachments/assets/e60be7c9-09fc-42db-8136-c22d87be5363" />
+- <img width="854" height="683" alt="image" src="https://github.com/user-attachments/assets/4eb3bd2b-6a46-4725-bc19-bbb45d26615d" />
+
+
+
+
 
 ## Documentation & Notebook
 
