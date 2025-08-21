@@ -32,4 +32,4 @@ Residual connections are retained for efficient training.
 ## Documentation
 
 Detailed documentation is available as a PDF:  
-[ResNet50_MNIST Documentation](docs/ResNet50_MNIST.pdf)
+[ResNet50_MNIST Documentation](ResNet-50%20for%20MNIST%20Model%20Overview%20and%20Training%20Summary.pdf))
